@@ -1,0 +1,6 @@
+{
+  "name": "VeriPath",
+  "description": "AI Skill Passport & Credential Equivalence Engine — Proving Skills Without Paper Records",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
